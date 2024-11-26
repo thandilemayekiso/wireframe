@@ -1,0 +1,45 @@
+body {
+    font-family: "Tinos", serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+  
+  h1{
+    font-family: "Tinos", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+.hero img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+
+
+h1 {color: rgb(170, 70, 70);
+}
+
+h2 {color: rgb(26, 145, 163);
+}
+
+P {padding: 10px;
+}
+
+nav {background-color: aquamarine;padding: 10px;}
+
+nav a {color: white;display: inline;padding: 20px;}
+
+footer {margin-top: 15px;
+border-top: 1px solid #000;
+text-align: center;}
+
+a {text-decoration: none;
+}
+
+/* This is to remove all underline /*
+
+a {text-decoration: none;
+}
